@@ -31,18 +31,14 @@ Board được chia thành 3 cột:
 - In Progress: Công việc đang thực hiện.  
 - Done: Công việc đã hoàn thành.  
 
-![active sprint]()
+![active sprint](https://github.com/n23dcpt013-wq/lab09/blob/main/Sprint%20Board%20(Active%20sprints).png)
 
 ## 3. Sprint Report – Burndown Chart
 - Theo dõi tiến độ thực hiện công việc trong Sprint.  
 - Biểu đồ thể hiện số lượng công việc còn lại giảm dần theo thời gian.  
 
-📸 *Ảnh minh chứng Burndown Chart từ Jira*
 
----
+![burndown chart]()
 
-## 4. Kết luận
-- Sprint 1 đã được khởi tạo thành công trên Jira với đầy đủ Backlog, Board và Report.  
-- Nhóm có thể quản lý tiến độ bằng cách cập nhật trạng thái task trên Board và theo dõi Burndown Chart.  
 
----
+
