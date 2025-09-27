@@ -17,23 +17,21 @@ Subtasks chính:
 - Test case kiểm tra số dư
 
 
-![backblog]()
+![backblog](https://github.com/n23dcpt013-wq/lab09/blob/main/todo.png)
 
 ## 2. Sprint Board (Active Sprint)
-**Sprint 1 – Withdraw & Balance Inquiry**  
-- **Sprint duration:** 2 tuần (27/09/2025 – 11/10/2025)  
-- **Sprint goal:** Hoàn thành 2 chức năng cơ bản:
-  - Rút tiền (Withdraw)  
-  - Kiểm tra số dư (Balance Inquiry)  
+Sprint 1 – Withdraw & Balance Inquiry 
+Sprint duration: 2 tuần (27/09/2025 – 11/10/2025)  
+Sprint goal: Hoàn thành 2 chức năng cơ bản:
+   Rút tiền (Withdraw)  
+  Kiểm tra số dư (Balance Inquiry)  
 
 Board được chia thành 3 cột:
-- **To Do**: Công việc chưa bắt đầu.  
-- **In Progress**: Công việc đang thực hiện.  
-- **Done**: Công việc đã hoàn thành.  
+- To Do: Công việc chưa bắt đầu.  
+- In Progress: Công việc đang thực hiện.  
+- Done: Công việc đã hoàn thành.  
 
-📸 *Ảnh minh chứng Sprint Board (To Do / In Progress / Done)*
-
----
+![active sprint]()
 
 ## 3. Sprint Report – Burndown Chart
 - Theo dõi tiến độ thực hiện công việc trong Sprint.  
