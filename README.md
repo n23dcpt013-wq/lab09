@@ -5,16 +5,16 @@ Quản lý dự án ATM trên Jira (Agile)
 ## 1. Product Backlog
 Epic:ATM Basic Functions  
 User Stories:
- US1: Là khách hàng, tôi muốn rút tiền để có thể lấy tiền mặt từ tài khoản.
-US2: Là khách hàng, tôi muốn kiểm tra số dư để biết tình trạng tài khoản.
+ US1: Là khách hàng, tôi muốn rút tiền để có thể lấy tiền mặt từ tài khoản
+US2: Là khách hàng, tôi muốn kiểm tra số dư để biết tình trạng tài khoản
 
 Subtasks chính:
-- Thiết kế UI màn hình rút tiền
-- Viết code xử lý rút tiền
-- Test case kiểm thử rút tiền
-- Thiết kế UI màn hình số dư
-- Code API lấy số dư
-- Test case kiểm tra số dư
+ Thiết kế UI màn hình rút tiền
+ Viết code xử lý rút tiền
+ Test case kiểm thử rút tiền
+ Thiết kế UI màn hình số dư
+ Code API lấy số dư
+ Test case kiểm tra số dư
 
 
 ![backblog](https://github.com/n23dcpt013-wq/lab09/blob/main/todo.png)
@@ -27,15 +27,15 @@ Sprint goal: Hoàn thành 2 chức năng cơ bản:
   Kiểm tra số dư (Balance Inquiry)  
 
 Board được chia thành 3 cột:
-- To Do: Công việc chưa bắt đầu.  
-- In Progress: Công việc đang thực hiện.  
-- Done: Công việc đã hoàn thành.  
+ To Do: Công việc chưa bắt đầu
+ In Progress: Công việc đang thực hiện  
+ Done: Công việc đã hoàn thành  
 
 ![active sprint](https://github.com/n23dcpt013-wq/lab09/blob/main/Sprint%20Board%20(Active%20sprints).png)
 
 ## 3. Sprint Report – Burndown Chart
-- Theo dõi tiến độ thực hiện công việc trong Sprint.  
-- Biểu đồ thể hiện số lượng công việc còn lại giảm dần theo thời gian.  
+ Theo dõi tiến độ thực hiện công việc trong Sprint  
+ Biểu đồ thể hiện số lượng công việc còn lại giảm dần theo thời gian  
 
 
 ![burndown chart](https://github.com/n23dcpt013-wq/lab09/blob/main/Burndown%20Chart.png)
