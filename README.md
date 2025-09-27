@@ -38,7 +38,7 @@ Board được chia thành 3 cột:
 - Biểu đồ thể hiện số lượng công việc còn lại giảm dần theo thời gian.  
 
 
-![burndown chart]()
+![burndown chart](https://github.com/n23dcpt013-wq/lab09/blob/main/Burndown%20Chart.png)
 
 
 
